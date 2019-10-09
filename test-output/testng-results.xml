@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40741" started-at="2019-10-07T09:28:54Z" finished-at="2019-10-07T09:29:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40741" started-at="2019-10-07T09:28:54Z" finished-at="2019-10-07T09:29:35Z">
+      <class name="TestCases.TMS_LoginToDP">
+        <test-method status="PASS" signature="startReport(java.lang.String, java.lang.String)[pri:0, instance:TestCases.TMS_LoginToDP@2b98378d]" name="startReport" is-config="true" duration-ms="99" started-at="2019-10-07T17:28:54Z" finished-at="2019-10-07T17:28:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="TestLoginToDP()[pri:0, instance:TestCases.TMS_LoginToDP@2b98378d]" name="TestLoginToDP" duration-ms="23241" started-at="2019-10-07T17:28:55Z" finished-at="2019-10-07T17:29:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginToDP -->
+        <test-method status="PASS" signature="TestGooglePage()[pri:0, instance:TestCases.TMS_LoginToDP@2b98378d]" name="TestGooglePage" duration-ms="17219" started-at="2019-10-07T17:29:18Z" finished-at="2019-10-07T17:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGooglePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.TMS_LoginToDP@2b98378d]" name="tearDown" is-config="true" duration-ms="174" started-at="2019-10-07T17:29:35Z" finished-at="2019-10-07T17:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TMS_LoginToDP -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
