@@ -29,7 +29,8 @@ public class BasicExtenReport {
 	
 	WebDriver driver;
 	
-
+	//test comment, just checking if a git commit will work
+	String testTest = "Hello Git";
 	
 	
 	@Parameters({ "OS", "browser" })
