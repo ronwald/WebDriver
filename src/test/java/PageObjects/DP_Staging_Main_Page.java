@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 public class DP_Staging_Main_Page {
 	
 	String updateFromGithub = "update From Github Dec 31 2020";
+	String updateFromLocal = "update From Local Dec 31 2020";
+
 	private static WebElement element = null;
 	
 	
