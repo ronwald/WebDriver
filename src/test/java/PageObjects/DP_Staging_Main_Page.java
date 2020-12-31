@@ -8,6 +8,7 @@ public class DP_Staging_Main_Page {
 	
 	String updateFromGithub = "update From Github Dec 31 2020";
 	String updateFromLocal = "update From Local Dec 31 2020";
+	String updateFromLocal = "update From Local Jan 1 2021";
 
 	private static WebElement element = null;
 	
