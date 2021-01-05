@@ -13,6 +13,8 @@ import com.aventstack.extentreports.Status;
 import Utilities.BasicExtenReport;
 
 public class TMS_LoginToDP extends BasicExtenReport {
+
+String updateFromLap = "update From Laptop Jan 5 2021";
 	
 	
 	
